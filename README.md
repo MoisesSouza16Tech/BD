@@ -1,2 +1,2 @@
 # BD
-Exercícios e tarefas realizadas da matéria Banco de Dados
+Escritps de banco de banco de dados
